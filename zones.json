@@ -1,0 +1,50 @@
+{
+  "1": {
+    "store_code": "M001",
+    "store_name": "Malatya Pazarı",
+    "floor": "Zemin Kat",
+    "block": "A Blok"
+  },
+  "2": {
+    "store_code": "M002",
+    "store_name": "LC Waikiki",
+    "floor": "1. Kat",
+    "block": "B Blok"
+  },
+  "3": {
+    "store_code": "M003",
+    "store_name": "Mavi",
+    "floor": "1. Kat",
+    "block": "B Blok"
+  },
+  "4": {
+    "store_code": "M004",
+    "store_name": "Levis",
+    "floor": "1. Kat",
+    "block": "B Blok"
+  },
+  "5": {
+    "store_code": "M005",
+    "store_name": "Atasay",
+    "floor": "1. Kat",
+    "block": "B Blok"
+  },
+  "6": {
+    "store_code": "M006",
+    "store_name": "Polo",
+    "floor": "1. Kat",
+    "block": "B Blok"
+  },
+  "7": {
+    "store_code": "M007",
+    "store_name": "Terzi",
+    "floor": "1. Kat",
+    "block": "B Blok"
+  },
+  "8": {
+    "store_code": "M008",
+    "store_name": "Ayakkabı Dünyası",
+    "floor": "1. Kat",
+    "block": "B Blok"
+  }
+}
